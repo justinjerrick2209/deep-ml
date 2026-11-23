@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 9 problems · 0 labs · 4 math
+**14** solved · 10 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-11-23 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-17 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-11-23 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-22 | [solution](problems/0042-implement-relu-activation-function) |
